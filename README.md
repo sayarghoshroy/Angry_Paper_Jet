@@ -1,64 +1,59 @@
 # Angry Paper Jet
 
-## A Basic Fighter Jet Simulation Game
+### A Basic Fighter Jet Simulation Game
 
-### To Run:
+![](https://github.com/sayarghoshroy/Angry_Paper_Jet/blob/master/screens/combined.png)
 
+#### To Run:
 ```bash
-
 mkdir build
-
 cd build
-
 cmake ..
-
 make
-
 ./Paperjet
-
 ```
 
-### Controls:
+#### Controls:
 
-Left-click: Shoot Missile
+Left-click: Shoot missile
 
-Right-click: Drop Bomb
+Right-click: Drop bomb
 
-<kbd>&#8593;</kbd> Turn Nose Up
+<kbd>&#8593;</kbd> Turn nose up
 
-<kbd>&#8595;</kbd>  Turn Nose DOwn
+<kbd>&#8595;</kbd>  Turn nose down
 
-<kbd>q</kbd> Turn Left
+<kbd>q</kbd> Turn left
 
-<kbd>e</kbd> Turn Right
+<kbd>e</kbd> Turn right
 
-<kbd>a</kbd> Rotate Left
+<kbd>a</kbd> Rotate left
 
-<kbd>d</kbd> Rotate Right
+<kbd>d</kbd> Rotate right
 
-<kbd>w</kbd> Increase Speed
+<kbd>w</kbd> Increase speed
 
-<kbd>x</kbd> Decrease Speed
+<kbd>x</kbd> Decrease speed
 
-<kbd>r</kbd> Increase Altitude
+<kbd>r</kbd> Increase altitude
 
-<kbd>f</kbd> Decrease Altitude
+<kbd>f</kbd> Decrease altitude
 
-<kbd>u</kbd> Top View
+<kbd>u</kbd> Top view
 
-<kbd>t</kbd> Tower View
+<kbd>t</kbd> Tower view
 
-<kbd>p</kbd> Pilot View
+<kbd>p</kbd> Pilot view
 
-<kbd>h</kbd> Helicopter View, Click and Drag to revolve, Scroll to Zoom
+<kbd>h</kbd> Helicopter view: Click & drag to revolve, Scroll to zoom
 
-<kbd>k</kbd> Follow View
+<kbd>k</kbd> Follow view
 
-<kbd>z</kbd> : Quit Game
+<kbd>z</kbd> Quit game
 
 ---
 
-### Gameplay
+#### Gameplay
 
 - The red arrow guides towards next checkpoint.
 
@@ -89,6 +84,6 @@ Right-click: Drop Bomb
 	- Middle Violet Bar: Speed
 	- Bottom Green Bar: Fuel
 
-#### All the best and have fun
+#### All the best and have fun!
 
 ---
